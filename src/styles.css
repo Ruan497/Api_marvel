@@ -1,1 +1,39 @@
-/* You can add global styles to this file, and also import other style files */
+.mimg{
+    width: 150px;
+    height: 200px;
+}
+.cr{
+    text-align: center;
+    background-color: rgb(120, 0, 0);
+    min-width: 200px;
+    max-width: 250px;
+    min-height: 300px;
+    max-height: 400px;
+    border: solid black 3px;
+    border-radius: 15px;
+    margin: 20px;
+}
+.mname{
+    color: rgb(32, 32, 32);
+    font-size: larger;
+    font-family: cursive;
+}
+
+.princ{
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn{
+    background-color:rgb(32, 32, 32);
+    color: rgb(226, 212, 212);
+    border-radius: 9px;
+    
+}
+
+html, body{ 
+    height: 100%; 
+}
+body{ 
+    margin: 0;
+}
+
