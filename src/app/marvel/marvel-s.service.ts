@@ -13,7 +13,7 @@ export class MarvelSService {
 
   //DC é bem melhor
 
-  urlapi: string = '?ts=1624304693&apikey=252a8a1fd96507a4b1f2bca8f9dc9952&hash=bdec3f647d1d58aef1caaa4423e8d68f&limit=1'
+  urlapi: string = '?ts=1624304693&apikey=252a8a1fd96507a4b1f2bca8f9dc9952&hash=bdec3f647d1d58aef1caaa4423e8d68f&limit=40'
   url: string = 'http://gateway.marvel.com/v1/public/'
 
   TodosOsPersonagens() {

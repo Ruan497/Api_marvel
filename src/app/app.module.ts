@@ -13,7 +13,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavcompComponent } from './navcomp/navcomp.component';
 
 import {MatSidenavModule} from '@angular/material/sidenav'
-import {MatListModule} from '@angular/material/list'
+import {MatListModule} from '@angular/material/list';
 
 
 @NgModule({
